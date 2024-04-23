@@ -1,0 +1,15 @@
+Inferno2x2 - Defusion
+Original creator: Chris Auty (Barney) 
+Texture builds by Valve software
+2x2 version: Bruta1ity
+
+Terrorist are attempting to blow up critical
+gas pipeline through part of a small village.
+
+Counter-Terrorists: Prevent the terrorists
+from destroying the pipeline.
+
+Terrorists: Destroy the gas pipeline.
+
+Other Notes: There are 1 bomb site in this 
+mission.
